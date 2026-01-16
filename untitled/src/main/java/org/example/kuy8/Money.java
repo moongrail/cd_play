@@ -8,6 +8,5 @@ public class Money {
             principal += principal * interest * (1 - tax);
         }
         return years;
-        1233
     }
 }
